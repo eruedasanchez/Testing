@@ -1,0 +1,33 @@
+        -:    0:Source:/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/src/puntaje.cpp
+        -:    0:Graph:/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/Labo-testing.dir/src/puntaje.cpp.gcno
+        -:    0:Data:/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/Labo-testing.dir/src/puntaje.cpp.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "puntaje.h"
+        -:    2:
+function _Z7puntajei called 4 returned 100% blocks executed 100%
+        4:    3:int puntaje(int b) {
+        -:    4:	int res;
+        4:    5:	if (b < 10) {
+        4:    5-block  0
+branch  0 taken 2
+branch  1 taken 2
+        2:    6:		res = 2 * b;
+        2:    7:	} else {
+        2:    7-block  0
+        2:    8:		res = b;
+        2:    8-block  0
+        -:    9:	}
+        4:   10:	if (b % 3 == 0) {
+        4:   10-block  0
+branch  0 taken 2
+branch  1 taken 2
+        2:   11:		res = res + 10;
+        2:   12:	} else {
+        2:   12-block  0
+        2:   13:		res = res - 10;
+        2:   13-block  0
+        -:   14:	}
+        4:   15:	return res;
+        4:   15-block  0
+        -:   16:}

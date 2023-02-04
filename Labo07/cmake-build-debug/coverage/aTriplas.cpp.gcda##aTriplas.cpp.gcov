@@ -1,0 +1,18 @@
+        -:    0:Source:/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/src/aTriplas.cpp
+        -:    0:Graph:/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/Labo-testing.dir/src/aTriplas.cpp.gcno
+        -:    0:Data:/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/Labo-testing.dir/src/aTriplas.cpp.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "aTriplas.h"
+        -:    2:
+function _Z8aTriplasNSt3__16vectorINS0_IiNS_9allocatorIiEEEENS1_IS3_EEEE called 0 returned 0% blocks executed 0%
+    #####:    3:tuple<tuple<int, int>, vector<tuple<int, int, int>>> aTriplas(vector<vector<int>> m){
+    #####:    4:    tuple<tuple<int, int>, vector<tuple<int, int, int>>> res;
+    #####:    5:    return res;
+        -:    6:    // Borrar el return dummy y completar
+    #####:    7:}
+    $$$$$:    7-block  0
+branch  0 never executed
+branch  1 never executed
+    $$$$$:    7-block  1
+    $$$$$:    7-block  2
