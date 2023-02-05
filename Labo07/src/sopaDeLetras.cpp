@@ -56,7 +56,7 @@ int sopaDeLetras(vector<vector<char>> m){
                         }
                     }
                 }
-                /* Caso contrario, no voy a considerarlos porque quedan en una matriz de 3x3 */
+                /* Caso contrario, no voy a considerarlos porque quedan en una matriz de 3x3 (marcada con * en el ejemplo de abajo) */
             }
         }
     }

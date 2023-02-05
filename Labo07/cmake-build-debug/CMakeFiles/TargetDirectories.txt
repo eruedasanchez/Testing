@@ -1,4 +1,4 @@
-/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/gtest.dir
-/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/Labo-testing.dir
-/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Testing/Labo07/cmake-build-debug/CMakeFiles/gtest.dir
+/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Testing/Labo07/cmake-build-debug/CMakeFiles/Labo-testing.dir
+/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Testing/Labo07/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Testing/Labo07/cmake-build-debug/CMakeFiles/rebuild_cache.dir

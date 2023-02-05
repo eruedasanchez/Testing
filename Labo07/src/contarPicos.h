@@ -5,6 +5,9 @@
 #include <vector>
 using namespace std;
 
-vector<int> rotar(vector<int> v, int k);
+bool esPico(vector <vector <int > > m, int f, int c);
+int contarPicos(vector <vector <int > > m);
+
+
 
 #endif //LABO_TESTING_CONTARPICOS_H

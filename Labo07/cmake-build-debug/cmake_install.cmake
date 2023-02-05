@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07
+# Install script for directory: /Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Testing/Labo07
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Labo07/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ezequielpc/Desktop/Ciencias de la computacion/Primer Año/Algoritmos y Estructuras de Datos I/Testing/Labo07/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

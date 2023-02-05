@@ -8,7 +8,6 @@
 
 using namespace std;
 
-
 int sopaDeLetras(vector<vector<char>> m);
 vector<vector<char>> armarPalabrasDesde(vector<vector<char>> s, int f, int c);
 
